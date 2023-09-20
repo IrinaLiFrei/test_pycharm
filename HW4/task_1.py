@@ -16,4 +16,6 @@ def transpose_matrix(matrix):
 original_matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 print(original_matrix)
 transposed = transpose_matrix(original_matrix)
+transposed_2 = transpose_matrix(transposed)
 print(transposed)
+print(transposed_2)
