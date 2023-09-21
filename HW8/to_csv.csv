@@ -1,7 +1,8 @@
 |NAME| |CATEGORY| |PARENT DIR| |SIZE|
-|task_1.py| |file| |HW8| 2628
+|task_1.py| |file| |HW8| 2685
 |to_csv.csv| |file| |HW8| 390
 |to_json.json| |file| |HW8| 1164
+|to_pickle.pickle| |file| |HW8| 424
 |TestDir| |directory| |HW8| 3340
 |dir_1| |directory| |TestDir| 1124
 |dir_2| |directory| |TestDir| 2216

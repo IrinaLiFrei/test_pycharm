@@ -3,13 +3,25 @@
         "NAME": "task_1.py",
         "CATEGORY": "file",
         "PARENT DIR": "HW8",
-        "SIZE": 2235
+        "SIZE": 2685
+    },
+    {
+        "NAME": "to_csv.csv",
+        "CATEGORY": "file",
+        "PARENT DIR": "HW8",
+        "SIZE": 390
     },
     {
         "NAME": "to_json.json",
         "CATEGORY": "file",
         "PARENT DIR": "HW8",
-        "SIZE": 0
+        "SIZE": 1164
+    },
+    {
+        "NAME": "to_pickle.pickle",
+        "CATEGORY": "file",
+        "PARENT DIR": "HW8",
+        "SIZE": 424
     },
     {
         "NAME": "TestDir",
