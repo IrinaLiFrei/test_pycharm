@@ -1,0 +1,11 @@
+|NAME| |CATEGORY| |PARENT DIR| |SIZE|
+|task_1.py| |file| |HW8| 2628
+|to_csv.csv| |file| |HW8| 390
+|to_json.json| |file| |HW8| 1164
+|TestDir| |directory| |HW8| 3340
+|dir_1| |directory| |TestDir| 1124
+|dir_2| |directory| |TestDir| 2216
+|file_1.txt| |file| |dir_1| 1124
+|file_2.txt| |file| |dir_2| 2198
+|dir_2_2| |directory| |dir_2| 18
+|file_2_2.txt| |file| |dir_2_2| 18

@@ -1,0 +1,56 @@
+[
+    {
+        "NAME": "task_1.py",
+        "CATEGORY": "file",
+        "PARENT DIR": "HW8",
+        "SIZE": 2235
+    },
+    {
+        "NAME": "to_json.json",
+        "CATEGORY": "file",
+        "PARENT DIR": "HW8",
+        "SIZE": 0
+    },
+    {
+        "NAME": "TestDir",
+        "CATEGORY": "directory",
+        "PARENT DIR": "HW8",
+        "SIZE": 3340
+    },
+    {
+        "NAME": "dir_1",
+        "CATEGORY": "directory",
+        "PARENT DIR": "TestDir",
+        "SIZE": 1124
+    },
+    {
+        "NAME": "dir_2",
+        "CATEGORY": "directory",
+        "PARENT DIR": "TestDir",
+        "SIZE": 2216
+    },
+    {
+        "NAME": "file_1.txt",
+        "CATEGORY": "file",
+        "PARENT DIR": "dir_1",
+        "SIZE": 1124
+    },
+    {
+        "NAME": "file_2.txt",
+        "CATEGORY": "file",
+        "PARENT DIR": "dir_2",
+        "SIZE": 2198
+    },
+    {
+        "NAME": "dir_2_2",
+        "CATEGORY": "directory",
+        "PARENT DIR": "dir_2",
+        "SIZE": 18
+    },
+    {
+        "NAME": "file_2_2.txt",
+        "CATEGORY": "file",
+        "PARENT DIR": "dir_2_2",
+        "SIZE": 18
+    }
+]
