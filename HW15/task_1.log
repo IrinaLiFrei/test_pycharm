@@ -1,0 +1,44 @@
+INFO       - NAME: task_1.log, CATEGORY: file, PARENT DIR: HW15, SIZE: 0
+INFO       - NAME: task_1.py, CATEGORY: file, PARENT DIR: HW15, SIZE: 3182
+INFO       - NAME: TestDir, CATEGORY: directory, PARENT DIR: HW15, SIZE: 3340
+INFO       - NAME: dir_1, CATEGORY: directory, PARENT DIR: TestDir, SIZE: 1124
+INFO       - NAME: dir_2, CATEGORY: directory, PARENT DIR: TestDir, SIZE: 2216
+INFO       - NAME: file_1.txt, CATEGORY: file, PARENT DIR: dir_1, SIZE: 1124
+INFO       - NAME: file_2.txt, CATEGORY: file, PARENT DIR: dir_2, SIZE: 2198
+INFO       - NAME: dir_2_2, CATEGORY: directory, PARENT DIR: dir_2, SIZE: 18
+INFO       - NAME: file_2_2.txt, CATEGORY: file, PARENT DIR: dir_2_2, SIZE: 18
+ERROR      - Path C:\\Users\\airin\\PycharmProjects\\pythonProject\\HW88 does not exists
+WARNING    - Since the path was not found, the path to the current folder was used
+INFO       - NAME: task_1.log, CATEGORY: file, PARENT DIR: HW15, SIZE: 877
+INFO       - NAME: task_1.py, CATEGORY: file, PARENT DIR: HW15, SIZE: 3182
+INFO       - NAME: TestDir, CATEGORY: directory, PARENT DIR: HW15, SIZE: 3340
+INFO       - NAME: dir_1, CATEGORY: directory, PARENT DIR: TestDir, SIZE: 1124
+INFO       - NAME: dir_2, CATEGORY: directory, PARENT DIR: TestDir, SIZE: 2216
+INFO       - NAME: file_1.txt, CATEGORY: file, PARENT DIR: dir_1, SIZE: 1124
+INFO       - NAME: file_2.txt, CATEGORY: file, PARENT DIR: dir_2, SIZE: 2198
+INFO       - NAME: dir_2_2, CATEGORY: directory, PARENT DIR: dir_2, SIZE: 18
+INFO       - NAME: file_2_2.txt, CATEGORY: file, PARENT DIR: dir_2_2, SIZE: 18
+ERROR      - Path C:\\Users\\airin\\PycharmProjects\\pythonProject\\HW88 does not exists
+WARNING    - Since the path was not found, the path to the current folder was used
+INFO       - NAME: task_1.log, CATEGORY: file, PARENT DIR: HW15, SIZE: 1756
+INFO       - NAME: task_1.py, CATEGORY: file, PARENT DIR: HW15, SIZE: 3178
+INFO       - NAME: TestDir, CATEGORY: directory, PARENT DIR: HW15, SIZE: 3340
+INFO       - NAME: dir_1, CATEGORY: directory, PARENT DIR: TestDir, SIZE: 1124
+INFO       - NAME: dir_2, CATEGORY: directory, PARENT DIR: TestDir, SIZE: 2216
+INFO       - NAME: file_1.txt, CATEGORY: file, PARENT DIR: dir_1, SIZE: 1124
+INFO       - NAME: file_2.txt, CATEGORY: file, PARENT DIR: dir_2, SIZE: 2198
+INFO       - NAME: dir_2_2, CATEGORY: directory, PARENT DIR: dir_2, SIZE: 18
+INFO       - NAME: file_2_2.txt, CATEGORY: file, PARENT DIR: dir_2_2, SIZE: 18
+ERROR      - Path C:\\Users\\airin\\PycharmProjects\\pythonProject\\HW88 does not exists
+WARNING    - Since the path was not found, the path to the current folder was used
+INFO       - NAME: task_1.log, TYPE: file, PARENT DIR: HW15, SIZE: 2636
+INFO       - NAME: task_1.py, TYPE: file, PARENT DIR: HW15, SIZE: 3057
+INFO       - NAME: task_1_version_2.log, TYPE: file, PARENT DIR: HW15, SIZE: 4057
+INFO       - NAME: task_1_version_2.py, TYPE: file, PARENT DIR: HW15, SIZE: 3236
+INFO       - NAME: TestDir, TYPE: directory, PARENT DIR: HW15, SIZE: 3340
+INFO       - NAME: dir_1, TYPE: directory, PARENT DIR: TestDir, SIZE: 1124
+INFO       - NAME: dir_2, TYPE: directory, PARENT DIR: TestDir, SIZE: 2216
+INFO       - NAME: file_1.txt, TYPE: file, PARENT DIR: dir_1, SIZE: 1124
+INFO       - NAME: file_2.txt, TYPE: file, PARENT DIR: dir_2, SIZE: 2198
+INFO       - NAME: dir_2_2, TYPE: directory, PARENT DIR: dir_2, SIZE: 18
+INFO       - NAME: file_2_2.txt, TYPE: file, PARENT DIR: dir_2_2, SIZE: 18

@@ -1,0 +1,41 @@
+ERROR      - Path C:\Users\airin\PycharmProjects\pythonProject\HW88 does not exists
+WARNING    - Since the path was not found, the path to the current folder was used
+INFO       - NAME: task_1, EXTENSION: log, PARENT DIR: HW15
+INFO       - NAME: task_1, EXTENSION: py, PARENT DIR: HW15
+INFO       - NAME: task_1_version_2, EXTENSION: log, PARENT DIR: HW15
+INFO       - NAME: task_1_version_2, EXTENSION: py, PARENT DIR: HW15
+INFO       - NAME: TestDir, FLAG: ['r', 'w', 'x'], PARENT DIR: HW15
+INFO       - NAME: dir_1, FLAG: ['r', 'w', 'x'], PARENT DIR: TestDir
+INFO       - NAME: dir_2, FLAG: ['r', 'w', 'x'], PARENT DIR: TestDir
+INFO       - NAME: file_1, EXTENSION: txt, PARENT DIR: dir_1
+INFO       - NAME: file_2, EXTENSION: txt, PARENT DIR: dir_2
+INFO       - NAME: dir_2_2, FLAG: ['r', 'w', 'x'], PARENT DIR: dir_2
+INFO       - NAME: file_2_2, EXTENSION: txt, PARENT DIR: dir_2_2
+ERROR      - Path C:\Users\airin\PycharmProjects\pythonProject\HW88 does not exists
+WARNING    - Since the path was not found, the path to the current folder was used
+INFO       - FILENAME: task_1, EXTENSION: log, PARENT DIR: HW15
+INFO       - FILENAME: task_1, EXTENSION: py, PARENT DIR: HW15
+INFO       - FILENAME: task_1_version_2, EXTENSION: log, PARENT DIR: HW15
+INFO       - FILENAME: task_1_version_2, EXTENSION: py, PARENT DIR: HW15
+INFO       - DIRNAME: TestDir, FLAG: ['r', 'w', 'x'], PARENT DIR: HW15
+INFO       - DIRNAME: dir_1, FLAG: ['r', 'w', 'x'], PARENT DIR: TestDir
+INFO       - DIRNAME: dir_2, FLAG: ['r', 'w', 'x'], PARENT DIR: TestDir
+INFO       - FILENAME: file_1, EXTENSION: txt, PARENT DIR: dir_1
+INFO       - FILENAME: file_2, EXTENSION: txt, PARENT DIR: dir_2
+INFO       - DIRNAME: dir_2_2, FLAG: ['r', 'w', 'x'], PARENT DIR: dir_2
+INFO       - FILENAME: file_2_2, EXTENSION: txt, PARENT DIR: dir_2_2
+ERROR      - Path C:\Users\airin\PycharmProjects\pythonProject\HW88 does not exists
+WARNING    - Since the path was not found, the path to the current folder was used
+INFO       - FILE NAME: task_1, EXTENSION: log, PARENT DIR: HW15
+INFO       - FILE NAME: task_1, EXTENSION: py, PARENT DIR: HW15
+INFO       - FILE NAME: task_1_version_2, EXTENSION: log, PARENT DIR: HW15
+INFO       - FILE NAME: task_1_version_2, EXTENSION: py, PARENT DIR: HW15
+INFO       - DIRECTORY NAME: TestDir, FLAG: ['r', 'w', 'x'], PARENT DIR: HW15
+INFO       - DIRECTORY NAME: dir_1, FLAG: ['r', 'w', 'x'], PARENT DIR: TestDir
+INFO       - DIRECTORY NAME: dir_2, FLAG: ['r', 'w', 'x'], PARENT DIR: TestDir
+INFO       - FILE NAME: file_1, EXTENSION: txt, PARENT DIR: dir_1
+INFO       - FILE NAME: file_2, EXTENSION: txt, PARENT DIR: dir_2
+INFO       - DIRECTORY NAME: dir_2_2, FLAG: ['r', 'w', 'x'], PARENT DIR: dir_2
+INFO       - FILE NAME: file_2_2, EXTENSION: txt, PARENT DIR: dir_2_2
+INFO       - FILE NAME: student_scores, EXTENSION: py, PARENT DIR: HW12
+INFO       - FILE NAME: subjects, EXTENSION: csv, PARENT DIR: HW12
